@@ -1,0 +1,5 @@
+/home/ariel/Escritorio/Godot Engine c# comparar la velocidad de ejecución/.mono/temp/bin/Tools/Godot Engine c# comparar la velocidad de ejecución.dll
+/home/ariel/Escritorio/Godot Engine c# comparar la velocidad de ejecución/.mono/temp/bin/Tools/Godot Engine c# comparar la velocidad de ejecución.pdb
+/home/ariel/Escritorio/Godot Engine c# comparar la velocidad de ejecución/.mono/temp/obj/Tools/Godot Engine c# comparar la velocidad de ejecución.csprojAssemblyReference.cache
+/home/ariel/Escritorio/Godot Engine c# comparar la velocidad de ejecución/.mono/temp/obj/Tools/Godot Engine c# comparar la velocidad de ejecución.dll
+/home/ariel/Escritorio/Godot Engine c# comparar la velocidad de ejecución/.mono/temp/obj/Tools/Godot Engine c# comparar la velocidad de ejecución.pdb
